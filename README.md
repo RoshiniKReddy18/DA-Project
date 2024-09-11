@@ -6,13 +6,13 @@ Steps for Netflix Data Analysis :
 * Load Data: Import the Netflix dataset.
 * Data Cleaning: Handle missing values, convert data types, and prepare the data for analysis.
 * Exploratory Data Analysis (EDA) :
-- Analyze content by genre, release year, and country.
-- Identify trends in content type (movies vs. TV shows).
-- Visualize content ratings and audience demographics.
+Analyze content by genre, release year, and country.
+Identify trends in content type (movies vs. TV shows).
+Visualize content ratings and audience demographics.
 * Visualization :
-- Create heatmaps to show correlations between variables.
-- Plot distribution graphs for genre popularity.
-- Visualize content release trends over time.
+Create heatmaps to show correlations between variables.
+Plot distribution graphs for genre popularity.
+Visualize content release trends over time.
 
 Data Collection :
 The dataset used for this analysis is publicly available and includes information on Netflix's titles, including genre, release date, rating, duration, and more. The data was sourced to provide a comprehensive view of the content trends on Netflix.
